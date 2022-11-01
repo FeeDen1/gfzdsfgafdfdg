@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+p {
+    margin: 0 auto;
+    padding-left: 0.5%;
+}
+
+em {
+    font-weight: bold;
+}
+
+h3 {
+    margin: 0 auto;
+    padding-left:0.5%;
+}
+
+a {
+    padding-left: 0.5%;
+    margin: 0 auto;
+}
+
+.bilet2 {
+    height:500px;
+    margin: 0 auto;
+}
